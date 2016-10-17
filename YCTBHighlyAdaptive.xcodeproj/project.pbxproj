@@ -31,6 +31,7 @@
 		E68A5F901DB4E34E00FCCD32 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E68A5F8C1DB4E34E00FCCD32 /* 5.jpg */; };
 		E68A5F911DB4E34E00FCCD32 /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E68A5F8D1DB4E34E00FCCD32 /* 8.jpg */; };
 		E68A5F921DB4E34E00FCCD32 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E68A5F8E1DB4E34E00FCCD32 /* 6.jpg */; };
+		E68A5F941DB4E70500FCCD32 /* jietu.png in Resources */ = {isa = PBXBuildFile; fileRef = E68A5F931DB4E70500FCCD32 /* jietu.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -88,6 +89,7 @@
 		E68A5F8C1DB4E34E00FCCD32 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
 		E68A5F8D1DB4E34E00FCCD32 /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
 		E68A5F8E1DB4E34E00FCCD32 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		E68A5F931DB4E70500FCCD32 /* jietu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jietu.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -215,6 +217,7 @@
 		E68A5F7C1DB4DF2200FCCD32 /* Image */ = {
 			isa = PBXGroup;
 			children = (
+				E68A5F931DB4E70500FCCD32 /* jietu.png */,
 				E68A5F8B1DB4E34E00FCCD32 /* 7.jpg */,
 				E68A5F8C1DB4E34E00FCCD32 /* 5.jpg */,
 				E68A5F8D1DB4E34E00FCCD32 /* 8.jpg */,
@@ -342,6 +345,7 @@
 				E68A5F851DB4DF2B00FCCD32 /* 2.png in Resources */,
 				E68A5F8A1DB4DF2B00FCCD32 /* 13.jpg in Resources */,
 				E68A5F8F1DB4E34E00FCCD32 /* 7.jpg in Resources */,
+				E68A5F941DB4E70500FCCD32 /* jietu.png in Resources */,
 				E68A5F3E1DB4DE9C00FCCD32 /* Assets.xcassets in Resources */,
 				E68A5F871DB4DF2B00FCCD32 /* 3.png in Resources */,
 				E68A5F921DB4E34E00FCCD32 /* 6.jpg in Resources */,
@@ -604,6 +608,7 @@
 				E68A5F5D1DB4DE9C00FCCD32 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E68A5F5E1DB4DE9C00FCCD32 /* Build configuration list for PBXNativeTarget "YCTBHighlyAdaptiveTests" */ = {
 			isa = XCConfigurationList;
@@ -612,6 +617,7 @@
 				E68A5F601DB4DE9C00FCCD32 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E68A5F611DB4DE9C00FCCD32 /* Build configuration list for PBXNativeTarget "YCTBHighlyAdaptiveUITests" */ = {
 			isa = XCConfigurationList;
@@ -620,6 +626,7 @@
 				E68A5F631DB4DE9C00FCCD32 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
